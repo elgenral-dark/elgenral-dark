@@ -12,16 +12,19 @@
 Coding in progress...
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=General-dark&style=flat&color=orange&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=General-dark&style=flat&color=orange&label=PROFILE+VIEWS"/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-General%20Coder-red?style=flat&logo=youtube)](https://youtube.com/@general-coder?si=5Q4udwkDcXlToBy7)
-[![Telegram](https://img.shields.io/badge/Telegram-General-dark-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM)
+<br><br>
+
+[![YouTube](https://img.shields.io/badge/YouTube-El%20General-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elgeneral.official)
+
+[![Telegram](https://img.shields.io/badge/Telegram-EA_G7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EA_G7)
 
 </div>
 
 <hr>
 
-## 🚀 Tools I Use
+# 🚀 Tools I Use
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
@@ -58,8 +61,6 @@ class About extends Youssef {
     }
   };
 }
+```
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
-</div>
-
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="40%"/-->
