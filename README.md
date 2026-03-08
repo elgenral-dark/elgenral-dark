@@ -1,66 +1,51 @@
-<div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<div align="center" width="50"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <h2>Youssef | The General</h2>
-<p><b>Programmer & Content Creator</b></p>
-<p>Code • Create • Lead 🚀</p>
-
-<details>
+<p><b>Cyber Security Learner & Content Creator</b></p>
+<p>Code • Hack • Secure 🚀</p><details>
 <p><strong><summary> Busy coding & Vibing to 🎧 </summary></strong></p>
 Coding in progress...
-</details>
+</details><img src="https://komarev.com/ghpvc/?username=General-dark&style=flat&color=orange&label=PROFILE+VIEWS"/><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=General-dark&style=flat&color=orange&label=PROFILE+VIEWS"/>
+""YouTube" (https://img.shields.io/badge/YouTube-El%20General-FF0000?style=for-the-badge&logo=youtube&logoColor=white)" (https://www.youtube.com/@elgeneral.official)
 
-<br><br>
+""Telegram" (https://img.shields.io/badge/Telegram-EA_G7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" (https://t.me/EA_G7)
 
-[![YouTube](https://img.shields.io/badge/YouTube-El%20General-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elgeneral.official)
+</div><hr>🛡️ Cyber Security & Development Tools
 
-[![Telegram](https://img.shields.io/badge/Telegram-EA_G7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EA_G7)
+"Python" (https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+"JavaScript" (https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+"Bash" (https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-</div>
+"Kali Linux" (https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
+"Burp Suite" (https://img.shields.io/badge/Burp_Suite-FF6C37?style=flat)
+"Metasploit" (https://img.shields.io/badge/Metasploit-2E2E2E?style=flat)
+"Nmap" (https://img.shields.io/badge/Nmap-004170?style=flat)
 
-<hr>
+"Git" (https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
 
-# 🚀 Tools I Use
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-```dart
 class About extends Youssef {
   const myTools = {
     "ProgrammingLanguages": {
-      "Dart", "Go", "Python", "JavaScript", "Java", "C++"
+      "Python", "JavaScript", "C++", "Bash"
     },
-    "OtherLanguages": {
-      "HTML", "CSS", "Bash", "JSON", "Markdown"
-    },
-    "Databases": {
-      "Firebase", "SQLite", "PostgreSQL"
+    "CyberSecurityTools": {
+      "Nmap", "Metasploit", "Burp Suite", "Wireshark"
     },
     "Editors": {
-      "VSCode", "Sublime", "Neovim"
+      "VSCode", "Neovim"
     },
     "Platforms": {
-      "GNU/Linux", "Windows", "MacOS"
+      "Linux", "Windows"
     },
     "OtherTools": {
-      "Git", "Figma", "Photoshop", "Gimp", "Lightroom"
+      "Git", "Docker"
     }
   };
 }
-```
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="40%"/-->
