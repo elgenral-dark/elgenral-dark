@@ -40,6 +40,20 @@ Coding in progress...
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
 
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=General-dark&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=General-dark&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
 ```dart
 class About extends Youssef {
   const myTools = {
