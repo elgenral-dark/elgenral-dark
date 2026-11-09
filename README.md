@@ -4,8 +4,8 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
 
 <h2>Youssef | The General</h2>
-<Code><b>parner & Content Creator</b></p>
-<p>Creatortails>
+<Code><b>parner & Content Creator</b>
+<p>Creatortails</p>
 <summary><strong>Busy coding & Vibing to 🎧</strong></summary>
 Coding in progress...
 </details>
