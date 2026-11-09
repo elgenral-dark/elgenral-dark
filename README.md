@@ -44,10 +44,13 @@ Coding in progress...
 class About extends Youssef {
   const myTools = {
     "ProgrammingLanguages": {
-      "Python", "JavaScript", "C++", "Bash"
+      "Python", "JavaScript", "C++", "Java", "Bash"
     },
-    "CyberSecurityTools": {
-      "Nmap", "Metasploit", "Burp Suite", "Wireshark"
+    "WebDevelopment": {
+      "HTML", "CSS", "React", "Node.js"
+    },
+    "DevelopmentTools": {
+      "Git", "GitHub", "Docker"
     },
     "Editors": {
       "VSCode", "Neovim"
@@ -55,9 +58,11 @@ class About extends Youssef {
     "Platforms": {
       "Linux", "Windows"
     },
-    "OtherTools": {
-      "Git", "Docker"
+    "OtherSkills": {
+      "Problem Solving",
+      "Data Structures",
+      "Algorithms",
+      "OOP"
     }
   };
 }
-```
