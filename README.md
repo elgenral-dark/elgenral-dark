@@ -24,7 +24,7 @@ Coding in progress...
 
 ---
 
-# 🛡️ Cyber Security & Development Tools
+# 💻 Software Engineering & Development Tools
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
