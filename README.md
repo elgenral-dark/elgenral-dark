@@ -1,22 +1,18 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
 
 <h2>Youssef | The General</h2>
-<Code><b>parner & Content Creator</b>
-<p>Creatortails</p>
-<summary><strong>Busy coding & Vibing to 🎧</strong></summary>
+<code><b>Partner &amp; Content Creator</b></code>
+<p>Creator Tails</p>
+
+<details>
+<summary><strong>Busy coding &amp; Vibing to 🎧</strong></summary>
 Coding in progress...
 </details>
 
 <img src="https://komarev.com/ghpvc/?username=General-dark&style=flat&color=orange&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-[![YouTube](https://img.shields.io/badge/YouTube-El%20General-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elgeneral.official)
-
-[![Telegram](https://img.shields.io/badge/Telegram-EA_G7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EA_G7)
 
 </div>
 
