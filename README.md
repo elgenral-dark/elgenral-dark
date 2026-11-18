@@ -47,3 +47,28 @@ class About extends Youssef {
     }
   };
 }
+```
+ ## 📊 GitHub Stats
+
+<div align="center">
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=elgenral-dark&show_icons=true&theme=dark&hide_border=true)
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elgenral-dark&layout=compact&theme=dark&hide_border=true)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+📫 Open to collaborations and opportunities, reach me on [LinkedIn](https://www.linkedin.com/in/youssef-elgenral).
+
+</div>
